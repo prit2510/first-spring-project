@@ -1,4 +1,4 @@
-package com.example;
+package com.example.firstspringproject;
 
 public class student {
     private int studentId;
